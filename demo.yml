@@ -1,4 +1,4 @@
-- name : hello
+- hosts: all
   tasks: 
     - name: Create a sample file
       file:
