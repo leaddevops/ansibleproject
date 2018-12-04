@@ -2,6 +2,6 @@
   tasks: 
     - name: Create a sample file
       file:
-        path: /tmp/awx.txt
+        path: /tmp/ansiblepull.txt
         state: touch
 
